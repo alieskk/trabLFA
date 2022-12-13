@@ -1,0 +1,3 @@
+/home/alieskk/CLionProjects/1°Trab-LFA-JulietRigoti/cmake-build-debug/CMakeFiles/1_Trab_LFA_JulietRigoti.dir
+/home/alieskk/CLionProjects/1°Trab-LFA-JulietRigoti/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alieskk/CLionProjects/1°Trab-LFA-JulietRigoti/cmake-build-debug/CMakeFiles/rebuild_cache.dir

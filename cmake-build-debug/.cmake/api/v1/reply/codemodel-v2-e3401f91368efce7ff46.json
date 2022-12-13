@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1_Trab_LFA_JulietRigoti",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1_Trab_LFA_JulietRigoti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1_Trab_LFA_JulietRigoti-Debug-dca03a736d369ad56156.json",
+					"name" : "1_Trab_LFA_JulietRigoti",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alieskk/CLionProjects/1\u00b0Trab-LFA-JulietRigoti/cmake-build-debug",
+		"source" : "/home/alieskk/CLionProjects/1\u00b0Trab-LFA-JulietRigoti"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
